@@ -66,9 +66,8 @@
             "style": "dallas",
             "threshold": 0
           },
-          "style": "diamond",
+          "style": "plain",
           "template": "<#000000>\ue0b1 </>{{ .FormattedMs }}s ",
-          "trailing_diamond": "\ue0b0",
           "type": "executiontime"
         }
       ],
